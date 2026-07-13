@@ -415,22 +415,22 @@ image = ImageOps.exif_transpose(image)
 image = image.convert("RGB")
 
 
-# =========================
-# CROP
-# =========================
+# # =========================
+# # CROP
+# # =========================
 
-width_original, height_original = image.size
+# width_original, height_original = image.size
 
-crop_height = int(height_original * 0.72)
+# crop_height = int(height_original * 0.72)
 
-image = image.crop(
-    (
-        0,
-        0,
-        width_original,
-        crop_height
-    )
-)
+# image = image.crop(
+#     (
+#         0,
+#         0,
+#         width_original,
+#         crop_height
+#     )
+# )
 
 
 # =========================
