@@ -1,0 +1,553 @@
+
+<svg
+    width="1000"
+    height="680"
+    viewBox="0 0 1000 680"
+    xmlns="http://www.w3.org/2000/svg"
+>
+
+<rect
+    width="100%"
+    height="100%"
+    rx="12"
+    fill="#0d1117"
+/>
+
+
+<!-- ASCII ART -->
+
+<g
+    font-family="monospace"
+    font-size="10px"
+    fill="#c9d1d9"
+>
+
+    <text
+        x="35"
+        y="45"
+        xml:space="preserve"
+    >                                                  </text>
+    
+    <text
+        x="35"
+        y="56"
+        xml:space="preserve"
+    >                                                  </text>
+    
+    <text
+        x="35"
+        y="67"
+        xml:space="preserve"
+    >                  8%BBB$@$8%%B                    </text>
+    
+    <text
+        x="35"
+        y="78"
+        xml:space="preserve"
+    >               888%$$BB$@@@B8$B@$                 </text>
+    
+    <text
+        x="35"
+        y="89"
+        xml:space="preserve"
+    >             BB88WB$@@@$WMMM8$@@@@B               </text>
+    
+    <text
+        x="35"
+        y="100"
+        xml:space="preserve"
+    >            $@B8$$M&amp;%&amp;dc[ll!+{vq8@8W              </text>
+    
+    <text
+        x="35"
+        y="111"
+        xml:space="preserve"
+    >            @$BB@Mf(/rf?^. .^,I?cW$$B             </text>
+    
+    <text
+        x="35"
+        y="122"
+        xml:space="preserve"
+    >            $@@@#0j[~i:  '`l+{/xuw$$B             </text>
+    
+    <text
+        x="35"
+        y="133"
+        xml:space="preserve"
+    >             @@MOXXxxr/~'l1rnfjucX*@              </text>
+    
+    <text
+        x="35"
+        y="144"
+        xml:space="preserve"
+    >             m%p|//x(-({`!]{)v)/?\bbuv            </text>
+    
+    <text
+        x="35"
+        y="155"
+        xml:space="preserve"
+    >           l^,O0[I`  i(! ^+l. '';)O} '!           </text>
+    
+    <text
+        x="35"
+        y="166"
+        xml:space="preserve"
+    >           )I;uO)!'  _\&gt;^I-&gt;   'itU~.+            </text>
+    
+    <text
+        x="35"
+        y="177"
+        xml:space="preserve"
+    >             r/Cx[;`'!}_,!+I'''I[u1_n             </text>
+    
+    <text
+        x="35"
+        y="188"
+        xml:space="preserve"
+    >               0X1?~+(t)_[)[~l&gt;+|Z                </text>
+    
+    <text
+        x="35"
+        y="199"
+        xml:space="preserve"
+    >                 Uj)}tf[??}[--)fJ                 </text>
+    
+    <text
+        x="35"
+        y="210"
+        xml:space="preserve"
+    >                 bmJ(&lt;!I;:",&lt;/zxU                 </text>
+    
+    <text
+        x="35"
+        y="221"
+        xml:space="preserve"
+    >                 mXOqCuf\/fnzv(?x                 </text>
+    
+    <text
+        x="35"
+        y="232"
+        xml:space="preserve"
+    >              d0qC{|uOppQzzvt+:;fmUq              </text>
+    
+    <text
+        x="35"
+        y="243"
+        xml:space="preserve"
+    >           wJnrcqQ\!!?{_&gt;i&lt;&gt;, :|JZx/rL            </text>
+    
+    <text
+        x="35"
+        y="254"
+        xml:space="preserve"
+    >  pOUvxf|(ff//xxwCJx?i&gt;I^^"`I)zYYZj)))/x/tnU      </text>
+    
+    <text
+        x="35"
+        y="265"
+        xml:space="preserve"
+    >xt\(1((((\rr\fj/YOzXXf?&gt;;;+/zYzcLX{})()\/()))|rXQq</text>
+    
+    <text
+        x="35"
+        y="276"
+        xml:space="preserve"
+    >1{{{)())((|||tff/OJunuzQOxvzvuvUX1{}}{)ff/\\()1{(\</text>
+    
+    <text
+        x="35"
+        y="287"
+        xml:space="preserve"
+    >[}{{1()(j(1{(t/f|vQzYOOqdmQnxnvz([}}{{)|///|\\|){{</text>
+    
+    <text
+        x="35"
+        y="298"
+        xml:space="preserve"
+    >{}1))t|1//){)/\f\/QLQhoX+&lt;zbZvux]}}}{{)()\/(/|(\11</text>
+    
+</g>
+
+
+<!-- PROFILE INFORMATION -->
+
+
+        <text
+            x="430"
+            y="55"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="14px"
+            font-weight="bold"
+        >bayuputra</text>
+        
+        <text
+            x="430"
+            y="79"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="14px"
+        >----------------------------------------</text>
+        
+        <text
+            x="430"
+            y="127"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#58a6ff"
+                font-weight="bold"
+            >OS:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > ..................... </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Windows 11</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="151"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#d29922"
+                font-weight="bold"
+            >Education:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .............. </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Polman Bandung</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="175"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#3fb950"
+                font-weight="bold"
+            >Major:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .................. </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Industrial Informatics</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="223"
+            fill="#d29922"
+            font-family="monospace"
+            font-size="14px"
+            font-weight="bold"
+        >Languages.Programming:</text>
+        
+        <text
+            x="430"
+            y="247"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Python, JavaScript</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="271"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Kotlin, PHP</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="319"
+            fill="#bc8cff"
+            font-family="monospace"
+            font-size="14px"
+            font-weight="bold"
+        >Backend:</text>
+        
+        <text
+            x="430"
+            y="343"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >FastAPI, Django</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="367"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Node.js, Laravel</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="415"
+            fill="#3fb950"
+            font-family="monospace"
+            font-size="14px"
+            font-weight="bold"
+        >Interests:</text>
+        
+        <text
+            x="430"
+            y="439"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Backend Systems</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="463"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Machine Learning</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="487"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+
+            <tspan
+                fill="#6e7681"
+            >........................ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >AI Engineering</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="535"
+            fill="#58a6ff"
+            font-family="monospace"
+            font-size="14px"
+            font-weight="bold"
+        >GitHub Stats:</text>
+        
+        <text
+            x="430"
+            y="559"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#58a6ff"
+                font-weight="bold"
+            >Repos:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .................. </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >11</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="583"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#bc8cff"
+                font-weight="bold"
+            >Followers:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .............. </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >3</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="607"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#3fb950"
+                font-weight="bold"
+            >Following:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .............. </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >3</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="631"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#d29922"
+                font-weight="bold"
+            >Total Stars:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > ............ </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >0</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="655"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#bc8cff"
+                font-weight="bold"
+            >Total Commits:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .......... </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >84</tspan>
+
+        </text>
+        
+        <text
+            x="430"
+            y="679"
+            font-family="monospace"
+            font-size="14px"
+            xml:space="preserve"
+        >
+            <tspan
+                fill="#3fb950"
+                font-weight="bold"
+            >Top Languages:</tspan>
+
+            <tspan
+                fill="#6e7681"
+            > .......... </tspan>
+
+            <tspan
+                fill="#c9d1d9"
+            >Python 90.2%, CSS 2.8%, Cython 2.8%</tspan>
+
+        </text>
+        
+
+</svg>
